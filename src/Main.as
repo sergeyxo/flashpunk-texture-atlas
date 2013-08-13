@@ -7,7 +7,7 @@ package
 	
 	/**
 	 * Entry point for texture atlas sample.
-	 * @author {@link mailto:zach.w.lewis@us.army.mil "Zachary W. Lewis"}
+	 * @author Zachary Lewis
 	 */
 	public class Main extends Engine
 	{
