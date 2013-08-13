@@ -1,0 +1,25 @@
+<TextureAtlas>
+	<SubTexture name='player_walk_0' x='0' y='0' width='67' height='92' frameX='4' frameY='5' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_1' x='67' y='0' width='66' height='93' frameX='5' frameY='4' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_2' x='133' y='0' width='67' height='92' frameX='5' frameY='3' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_3' x='0' y='93' width='67' height='93' frameX='6' frameY='1' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_4' x='67' y='93' width='66' height='93' frameX='7' frameY='0' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_5' x='133' y='93' width='71' height='92' frameX='2' frameY='0' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_6' x='0' y='186' width='71' height='93' frameX='2' frameY='0' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_7' x='71' y='186' width='71' height='93' frameX='1' frameY='2' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_8' x='142' y='186' width='70' height='93' frameX='1' frameY='3' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_9' x='0' y='279' width='71' height='93' frameX='0' frameY='4' frameWidth='73' frameHeight='97' />
+	<SubTexture name='player_walk_10' x='71' y='279' width='67' height='92' frameX='4' frameY='5' frameWidth='73' frameHeight='97' />
+	<SubTexture name='background' x='212' y='0' width='256' height='256'/>
+	<SubTexture name='tileset' x='212' y='256' width='280' height='140'/>
+	<SubTexture name='tile_0' x='212' y='256' width='70' height='70'/>
+	<SubTexture name='tile_1' x='282' y='256' width='70' height='70'/>
+	<SubTexture name='tile_2' x='352' y='256' width='70' height='70'/>
+	<SubTexture name='tile_3' x='422' y='256' width='70' height='70'/>
+	<SubTexture name='tile_4' x='212' y='326' width='70' height='70'/>
+	<SubTexture name='tile_5' x='282' y='326' width='70' height='70'/>
+	<SubTexture name='tile_6' x='352' y='326' width='70' height='70'/>
+	<SubTexture name='item_coin' x='468' y='0' width='36' height='36'/>
+	<SubTexture name='item_star' x='468' y='36' width='34' height='32' frameX='1' frameY='2' frameWidth='36' frameHeight='36'/>
+	<SubTexture name='item_fireball' x='468' y='68' width='22' height='24' frameX='7' frameY='6' frameWidth='36' frameHeight='36'/>
+</TextureAtlas>
