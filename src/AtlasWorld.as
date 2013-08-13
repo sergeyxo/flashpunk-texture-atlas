@@ -7,7 +7,7 @@ package
 	
 	/**
 	 * A world created using texture atlases.
-	 * @author {@link mailto:zach.w.lewis@us.army.mil "Zachary W. Lewis"}
+	 * @author Zachary Lewis
 	 */
 	public class AtlasWorld extends World 
 	{
