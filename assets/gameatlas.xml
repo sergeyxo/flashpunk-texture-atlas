@@ -18,10 +18,12 @@
 	<SubTexture name='tile_4' x='212' y='326' width='70' height='70'/>
 	<SubTexture name='tile_5' x='282' y='326' width='70' height='70'/>
 	<SubTexture name='tile_6' x='352' y='326' width='70' height='70'/>
+	<SubTexture name='tile_7' x='422' y='326' width='70' height='70'/>
 	<SubTexture name='item_coin' x='468' y='0' width='36' height='36'/>
 	<SubTexture name='item_star' x='468' y='36' width='34' height='32' frameX='1' frameY='2' frameWidth='36' frameHeight='36'/>
 	<SubTexture name='item_fireball' x='468' y='68' width='22' height='24' frameX='7' frameY='6' frameWidth='36' frameHeight='36'/>
-    <Tileset name='basic_tiles' tileWidth='70' tileHeight='70'>
+	<SubTexture name='basicTileset' x='212' y='256' width='280' height='140'/>
+    <Tileset name='basicTileset' tileWidth='70' tileHeight='70'>
         <Tile source='tile_0'/>
         <Tile source='tile_1'/>
         <Tile source='tile_2'/>
@@ -29,5 +31,6 @@
         <Tile source='tile_4'/>
         <Tile source='tile_5'/>
         <Tile source='tile_6'/>
+        <Tile source='tile_7'/>
     </Tileset>
 </TextureAtlas>
